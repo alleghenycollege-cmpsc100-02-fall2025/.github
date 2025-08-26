@@ -15,3 +15,7 @@ Distribution Requirements: ME, SP.
 3. Analyze and suggest revisions to existing Python language code to add functionality or repair defects.
 4. Evaluate the practical and ethical implications of writing computer code and discuss the contexts, perceived effects, and impacts exerted on and by computer code as a cultural force or artifact.
 5. Design, describe, and implement original projects incorporating industry-standard practices and Python language fundamentals.
+
+## Discord
+
+[Join CIS Discord server](https://discord.gg/dhqfjZXu2Y)
