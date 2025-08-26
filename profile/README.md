@@ -17,20 +17,3 @@ Distribution Requirements: ME, SP.
 3. Analyze and suggest revisions to existing Python language code to add functionality or repair defects.
 4. Evaluate the practical and ethical implications of writing computer code and discuss the contexts, perceived effects, and impacts exerted on and by computer code as a cultural force or artifact.
 5. Design, describe, and implement original projects incorporating industry-standard practices and Python language fundamentals.
-
-### Distribution Learning Outcomes
-
-- Modes of Expression (ME): The study of Modes of Expression explores individual and/or collective modes of expression, focusing upon the ways in which these modes create meaning and communicate thoughts, emotions, or beliefs to others. By engaging in hands-on experience, students interrogate the act of communication itself.
-
-  Learning Outcome: Students who successfully complete this requirement will demonstrate an understanding of the production of meaning through active engagement with language, visual arts, and/or performance.
-
-  Course learning outcomes 1, 2, 4, and 5 satisfy the ME learning outcome.
-
-- SP: Scientific Process & Knowledge (SP). Courses involving Scientific Process & Knowledge aim to convey an understanding of what is known or can be known about the natural world; apply scientific reasoning towards the analysis and synthesis of scientific information; and create scientifically literate citizens who can engage productively in problem solving.
-
-  Learning Outcome: Students who successfully complete this requirement will demonstrate an understanding of the nature, approaches, and domain of scientific inquiry.
-
-  Course learning outcomes 1, 2, 3, and 5 satisfy the SP learning outcome.
-  
-
-_Licensed under CC BY-NC-ND 4.0._
