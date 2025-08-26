@@ -8,9 +8,7 @@ Prerequisite: none.
 
 Distribution Requirements: ME, SP.
 
-## Learning Outcomes
-
-### Course Learning Outcomes
+## Course Learning Outcomes
 
 1. Apply Python programming fundamentals to execute and explain computer code that implements interactive, novel solutions to a variety of computable problems.
 2. Implement code consistent with industry-standard practices using professional-grade integrated development environments (IDEs), command-line tools, and version control systems.
