@@ -10,4 +10,4 @@
 
 | Week | Dates | Topics | Assignments/Activities | Outcomes & Distribution |
 |------|-------|--------|------------------------|-------------------------|
-| **8** | Oct 13–17 | **Midterm Week**: [Practice Exam](https://github.com/alleghenycollege-cmpsc100-02-fall2025/course_information/blob/main/materials/practice_midterm.md), [Practice Exam Answer Key](https://github.com/alleghenycollege-cmpsc100-02-fall2025/course_information/blob/main/materials/practice_midterm_answer_key.md), [In-class review](https://docs.google.com/presentation/d/1pIZyIB0j7sc-1aoxJoOhnEQCjtbTqsCil6NHqjUxCUE/edit?usp=sharing), and **Midterm Exam on Oct. 16 at 9:30am**.  | Midterm Review, Midterm Exam | LO3; SP (critical analysis of algorithms). |
+| **9** | Oct 20–24 |  **Functions & Modular Design**: [Parameters, return values, scope.](https://computational-expression.github.io/course_information/week09/functions.html)  | <li>[Activity 6](https://classroom.github.com/a/l7j5NpTU) (DUE: 9:30am Oct. 21)</li> <li>Lab 6</li> | LO2, LO3; SP (systematic problem solving). |
