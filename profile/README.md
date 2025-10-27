@@ -10,4 +10,4 @@
 
 | Week | Dates | Topics | Assignments/Activities | Outcomes & Distribution |
 |------|-------|--------|------------------------|-------------------------|
-| **9** | Oct 20–24 |  **Functions & Modular Design**: [Parameters, return values, scope.](https://computational-expression.github.io/course_information/week09/functions.html)  | <li>[Activity 6: Refactoring](https://classroom.github.com/a/l7j5NpTU) (DUE: 9:30am Oct. 21, [Sample Solution](https://github.com/computational-expression/activity06/blob/main/src/main_solution.py))</li> <li>[Lab 6: Memory Game](https://classroom.github.com/a/bjhRBD3B)</li> <li>Read(optional): [Functions](https://automatetheboringstuff.com/3e/chapter4.html)</li> | LO2, LO3; SP (systematic problem solving). |
+| **10** | Oct 27–31 | **Data Structures II**: Dictionaries, key/value mappings. | <li>[Lab 7](https://classroom.github.com/a/Ldio_N5e)</li> | LO1, LO5; ME (expressing models), SP (modeling inquiry). |
