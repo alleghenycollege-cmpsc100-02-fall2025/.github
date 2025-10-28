@@ -10,4 +10,4 @@
 
 | Week | Dates | Topics | Assignments/Activities | Outcomes & Distribution |
 |------|-------|--------|------------------------|-------------------------|
-| **10** | Oct 27–31 | **Data Structures II**: Dictionaries, key/value mappings. | <li>[Lab 7](https://classroom.github.com/a/Ldio_N5e)</li> <li>[Activity 7: Parade Calculator](https://classroom.github.com/a/LePU5aeD)</li> <li>Read(optional): [Dictionaries](https://automatetheboringstuff.com/3e/chapter7.html)</li> | LO1, LO5; ME (expressing models), SP (modeling inquiry). |
+| **10** | Oct 27–31 | **Data Structures II**: Dictionaries, key/value mappings. | <li>[Lab 7](https://classroom.github.com/a/Ldio_N5e)</li> <li>[Activity 7: Parade Calculator](https://classroom.github.com/a/wsbYsVKV)</li> <li>Read(optional): [Dictionaries](https://automatetheboringstuff.com/3e/chapter7.html)</li> | LO1, LO5; ME (expressing models), SP (modeling inquiry). |
