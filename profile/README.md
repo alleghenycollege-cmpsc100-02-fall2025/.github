@@ -10,4 +10,4 @@
 
 | Week | Dates | Topics | Assignments/Activities | Outcomes & Distribution |
 |------|-------|--------|------------------------|-------------------------|
-| **10** | Oct 27–31 | **Data Structures II**: [Dictionaries, key/value mappings](https://computational-expression.github.io/course_information/week10/dictionaries.html). | <li>[Lab 7](https://classroom.github.com/a/Ldio_N5e)</li> <li>[Activity 7: Parade Calculator](https://classroom.github.com/a/wsbYsVKV)</li> <li> [Activity 8: Git Flow](https://classroom.github.com/a/zYfhHnsz) (DUE: 9:30am Nov. 6)</li> <li>Read(optional): [Dictionaries](https://automatetheboringstuff.com/3e/chapter7.html)</li> | LO1, LO5; ME (expressing models), SP (modeling inquiry). |
+| **11** | Nov 3–7 | **Object-Oriented Programming I**: Classes, objects, attributes. Abstraction.  <br>**Nov 4: All-College Programming Day (no class)** | <li>[Lab 8: IoT with Git Flow](https://classroom.github.com/a/Xm8JLPHi) (DUE: 2:30pm Nov. 10)</li> | LO1, LO5; ME (creating expressive computational artifacts). |
