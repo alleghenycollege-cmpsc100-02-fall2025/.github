@@ -10,4 +10,4 @@
 
 | Week | Dates | Topics | Assignments/Activities | Outcomes & Distribution |
 |------|-------|--------|------------------------|-------------------------|
-| **11** | Nov 3–7 | <li>[Git Flow](https://computational-expression.github.io/course_information/week11/git_and_vscode_tools.html)</li> <li>**Object-Oriented Programming I**: [Classes, objects, attributes.](https://computational-expression.github.io/course_information/week11/oop_intro.html)</li> <br>**Nov 4: All-College Programming Day (no class)** | <li>[Lab 8: IoT with Git Flow](https://classroom.github.com/a/Xm8JLPHi) (DUE: 2:30pm Nov. 10)</li> <li>Activity 9: Resolve "Feedback Issue" in Lab 6 (DUE: 9:30am Nov. 11)</li>| LO1, LO5; ME (creating expressive computational artifacts). |
+| **12** | Nov 10–14 | **Object-Oriented Programming II**: [Methods, encapsulation](https://computational-expression.github.io/course_information/week11/oop_intro.html). **Projects I**: Drafting project proposals. | <li>[Activity 10: Objects](https://classroom.github.com/a/OgkyikVu)</li> <li>Lab 9</li> <li>Project Ideation</li> | LO2, LO3, LO5; ME (communication through code), SP (collaborative inquiry). |
