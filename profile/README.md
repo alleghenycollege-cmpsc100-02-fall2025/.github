@@ -10,4 +10,4 @@
 
 | Week | Dates | Topics | Assignments/Activities | Outcomes & Distribution |
 |------|-------|--------|------------------------|-------------------------|
-| **12** | Nov 10–14 | **Object-Oriented Programming II**: [Methods, encapsulation](https://computational-expression.github.io/course_information/week11/oop_intro.html). **Projects I**: Drafting project proposals. | <li>[Activity 10: Objects](https://classroom.github.com/a/OgkyikVu)</li> <li>Lab 9</li> <li>Project Ideation</li> | LO2, LO3, LO5; ME (communication through code), SP (collaborative inquiry). |
+| **12** | Nov 10–14 | **Object-Oriented Programming II**: [Methods, encapsulation](https://computational-expression.github.io/course_information/week11/oop_intro.html). **Projects I**: Drafting project proposals. | <li>[Activity 10: Objects](https://classroom.github.com/a/OgkyikVu) (DUE: Nov. 11 9:30am(</li> <li>[Lab 9: Sensing System](https://classroom.github.com/a/4bVMnlO-) (DUE: 9:30am Nov. 18)</li> <li>Project Ideation</li> | LO2, LO3, LO5; ME (communication through code), SP (collaborative inquiry). |
