@@ -10,4 +10,4 @@
 
 | Week | Dates | Topics | Assignments/Activities | Outcomes & Distribution |
 |------|-------|--------|------------------------|-------------------------|
-| **14** | Nov 24–25 | **Final Project**. <br>**Nov 26–30: Thanksgiving Break (no class)** | <li>Activity 13: Commit to project repository feature branch (DUE: 9:30am Nov. 25) </li> <li>[Activity 14: Code review prep](https://classroom.github.com/a/38fH83C2) (DUE: 11:59pm Nov. 25) | LO1–5; ME (presentation & expression), SP (scientific reflection, inquiry). |
+| **15** | Dec 1–5 | **Final Project**. **Return hardware**. Ethical & cultural impacts of computing. | Project Code Reviews 1 & 2. Activity 15. | LO1–5; ME (presentation & expression), SP (scientific reflection, inquiry). |
