@@ -10,4 +10,4 @@
 
 | Week | Dates | Topics | Assignments/Activities | Outcomes & Distribution |
 |------|-------|--------|------------------------|-------------------------|
-| **15** | Dec 1–5 | **Final Project**. **Return hardware**. Ethical & cultural impacts of computing. | Project Code Reviews 1 & 2. Activity 15. | LO1–5; ME (presentation & expression), SP (scientific reflection, inquiry). |
+| **15** | Dec 1–5 | **Final Project**. **Return hardware**. Ethical & cultural impacts of computing. | <li>Project Code Reviews 1 & 2 on Dec. 1 and Dec. 4.</li> <li>[Activity 15](https://github.com/computational-expression/activity15) (DUE: in class on Dec. 2). | LO1–5; ME (presentation & expression), SP (scientific reflection, inquiry). |
